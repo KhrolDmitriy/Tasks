@@ -6,6 +6,6 @@ function toOneLineArr(a, b) {
 		typeof(a[i]) == 'object' ? toOneLineArr(a[i], b) : b[b.length] = a[i];
 }
 
-toOneLineArr(a, b)
+toOneLineArr(a, b);
 console.log(a);
 console.log(b);
