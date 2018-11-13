@@ -1,0 +1,25 @@
+* {
+    margin: 1px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.content-wrapper{
+    width: 20%;
+    margin: auto;
+}
+
+.info-wrapper{
+    display: flex;
+}
+
+.title-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.value-wrapper{
+    display: flex;
+    flex-direction: column;
+}
