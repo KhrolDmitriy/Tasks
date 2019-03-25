@@ -1,0 +1,13 @@
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.csprojAssemblyReference.cache
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.csproj.CoreCompileInputs.cache
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.AssemblyInfoInputs.cache
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.AssemblyInfo.cs
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\bin\Debug\netcoreapp2.1\IGI_lab_1.deps.json
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\bin\Debug\netcoreapp2.1\IGI_lab_1.runtimeconfig.json
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\bin\Debug\netcoreapp2.1\IGI_lab_1.runtimeconfig.dev.json
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\bin\Debug\netcoreapp2.1\IGI_lab_1.dll
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.Properties.Resources.resources
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.csproj.GenerateResource.cache
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\bin\Debug\netcoreapp2.1\IGI_lab_1.pdb
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.dll
+D:\Работы в студии\IP_31-2\IGI\IGI_lab_1\IGI_lab_1\obj\Debug\netcoreapp2.1\IGI_lab_1.pdb
